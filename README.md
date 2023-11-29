@@ -7,6 +7,7 @@ Se modifico el UML añadiendo una clase más que es la que se usa como composici
 Se modifico el código.
 Se creo la clase padre que es vehículo y de ahí a las clases hijas que fueron coche,van y moto.
 Se añadió el uso de composición entre el motor y las clases hijas.
+Se añadió un menu y más interacción con el usuario, se le pide su nombre y que ponga las horas que va a rentar.
 
 Descripción del proyecto:
 Programa donde se puede regsitrar el nombre de la persona que renta el vehículo y se muestre el modelo, la marca,datos sobre el motor y cuanto le va a costar rentar.
